@@ -1,0 +1,11 @@
+main: com.malcolmjh.aland.ALand
+name: ALand
+description: A Minecraft Chat Bot
+author: "Malcolm H (Mc Username: Mooshay105)"
+website: malcolmjh.com
+version: '${project.version}'
+api-version: '1.20'
+commands:
+  chat:
+    description: A Chat Bot
+    usage: /<command> <message>
